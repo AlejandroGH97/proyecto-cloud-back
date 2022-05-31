@@ -1,7 +1,11 @@
 ## Visor de causas de muertes en Estados Unidos
 
 ### Arquitectura
- ![image](https://drive.google.com/uc?export=view&id=1OyVPqALSVNLM7IkrlFHTInNoFk96ZxFn)
+<a href="https://drive.google.com/uc?export=view&id=1OyVPqALSVNLM7IkrlFHTInNoFk96ZxFn"><img src="https://drive.google.com/uc?export=view&id=1OyVPqALSVNLM7IkrlFHTInNoFk96ZxFn" style="width: 500px; max-width: 100%; height: auto" title="Arquitectura de la aplicación." /></a>
+ 
+- Front-End: Aplicación de React
+- Back-End: Aplicación de Express.js
+- Base de Datos: Mongo Atlas (Cloud)
  
 ### Funcionalidad
 
